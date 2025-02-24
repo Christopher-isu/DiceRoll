@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'Roll of the Dice
-'
+'https://github.com/Christopher-isu/DiceRoll.git
 
 Option Explicit On 'forces all variables to be declared
 Option Strict On 'forces all data types to match
